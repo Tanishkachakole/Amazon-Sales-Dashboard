@@ -35,6 +35,8 @@ and
 
 this help to understand priority of state ,payment , category,sellers 
 and give overall view of data in first page 
+
+
 ---
 ![Executive Summary](https://github.com/Tanishkachakole/Amazon-Sales-Dashboard/blob/main/sales_overview.png)
 
