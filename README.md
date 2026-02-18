@@ -23,13 +23,18 @@ It helps understand how the business is performing and where improvements can be
 This page provides a quick summary of overall business performance
 
 This page shows:
-- Total Sales
-- Total Profit
-- Profit Margin
-- Monthly and Yearly Sales Trends
-- Payment Mode Distribution
-- Delivery Status Overview
+- Total orders,Total sales ,Total profit also Total quantity in direct number
+- analyze the trend of ordera by month 
+where show march is highest order receiving month 
+-  it have two donut visual 
+which help to visualise contribute of categories to receive orders and 
+customers preference of payment mode 
+and 
+-  top state which receiving more orders 
+- top sellers whose products are like to customer
 
+this help to understand priority of state ,payment , category,sellers 
+and give overall view of data in first page 
 ---
 ![Executive Summary](https://github.com/Tanishkachakole/Amazon-Sales-Dashboard/blob/main/sales_overview.png)
 
@@ -37,12 +42,14 @@ This page shows:
 
 ### 2. Product Performance
 This page focuses on:
-- Sales by Product
-- Profit by Product
-- Product Demand Trends
-- Delivery vs Return Ratio
-- Stock Remaining Analysis
-
+- higest demanding product or lower demanding product which help to marketing 
+- product vs sales 
+so we know each products revenue 
+also having slicer so we can select the particular product and find its information 
+- profit by category to find
+each category how much they give profit 
+- add many cards to give directs give products profit margin , total profit , total sale amount , quantity ,stock remaining 
+in numbers 
 This helps identify high-performing and low-performing products.
 
 
@@ -65,11 +72,12 @@ This helps analyze customer retention and growth.
 
 ### 4. Trend & Profit Insights
 This page analyzes:
-- Sales Trend by Month and Year
-- Product Demand Pattern
+- Sales Trend  or profit trend by Month and Year
+- day wise Total sales which help to find peakday of month or year 
 - Payment Mode Changes Over Time
 - Delivery Performance Comparison
-- Return Ratio by Product
+- product which stock are most remaining and less remaining 
+which is very useful to understand which product are high demand in  month ,day 
 
 This page provides deeper business insights for decision-making.
 ![Operational Intelligence](https://github.com/Tanishkachakole/Amazon-Sales-Dashboard/blob/main/trend_analysis.png)
