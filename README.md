@@ -4,8 +4,9 @@ Hi! Welcome to my project. I built this end-to-end dashboard to analyze Amazon's
 
 
 ### 1. Executive Summary
-*Overview of Sales, Profit, and Monthly Trends.*
+Overview of Sales, Profit, and Monthly Trends.
 ![Executive Summary](https://github.com/Tanishkachakole/Amazon-Sales-Dashboard/blob/main/sales_overview.png)
+in this page I analyze 
 
 ### 2. Product Performance
 *Identifying Top/Bottom products and Category health.*
