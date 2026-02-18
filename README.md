@@ -1,4 +1,4 @@
-# Amazon Sales Dashboard (Power BI)
+# Amazon Sales Dashboard (Power BI) 📊
 
 This project presents a 3-year analysis (2023–2025) of Amazon sales data using Power BI.
 
