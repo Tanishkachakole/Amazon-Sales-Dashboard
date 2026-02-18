@@ -1,4 +1,4 @@
-# 📊 Amazon Sales Analytics Dashboard (SQL + Power BI)
+## 📊 Amazon Sales Analytics Dashboard (SQL + Power BI)
 
 Hi! Welcome to my project. I built this end-to-end dashboard to analyze Amazon's sales performance. I handled everything from writing complex SQL queries to designing a 4-page interactive dashboard in Power BI.
 
