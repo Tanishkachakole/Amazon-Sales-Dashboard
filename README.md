@@ -2,7 +2,7 @@
 
 Hi! Welcome to my project. I built this end-to-end dashboard to analyze Amazon's sales performance. I handled everything from writing complex SQL queries to designing a 4-page interactive dashboard in Power BI.
 
-## 🚀 Project Highlights
+##  Project Highlights
 * **Profitability:** Identified a strong **40% Overall Profit Margin**.
 * **Product Strategy:** Categorized "Superstars" (High Profit) vs "Underperformers" (Low Profit).
 * **Inventory Tracking:** Real-time monitoring of stock levels to prevent out-of-stock situations.
@@ -30,12 +30,12 @@ Hi! Welcome to my project. I built this end-to-end dashboard to analyze Amazon's
 
 ---
 
-## 🛠️ Tools & Skills
+##  Tools & Skills
 - **SQL:** Used CTEs, Window Functions (RANK, DENSE_RANK), and Joins to clean and aggregate data.
 - **Power BI:** Built the Data Model, created measures using **DAX**, and designed the UI.
 - **Excel:** Initial data sanity checks.
 
-## 🧠 Key Insights Found
+## Key Insights Found
 * **Smart LED TVs** are the biggest profit contributors.
 * Most customers prefer **E-wallets** for high-value transactions.
 * **Weekdays** show higher order volumes compared to weekends.
